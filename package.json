@@ -1,0 +1,22 @@
+{
+  "name": "date-to-discord-snowflake",
+  "version": "1.0.0",
+  "description": "Generate Discord snowflake from a Javascript Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathercc/date-to-discord-snowflake.git"
+  },
+  "keywords": [
+    "date-to-discord-snowflake"
+  ],
+  "author": "prathercc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathercc/date-to-discord-snowflake/issues"
+  },
+  "homepage": "https://github.com/prathercc/date-to-discord-snowflake#readme"
+}
